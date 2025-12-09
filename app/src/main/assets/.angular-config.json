@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "cli": {
+    "completion": {
+      "prompted": true
+    },
+    "analytics": "057d62a8-275c-49a3-bfc6-9e6e084a0d03"
+  },
+  "projects": {}
+}

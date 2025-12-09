@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">FirstAppAndroid</string>
+    <string name="developer" translatable="false">Angelo</string>
+    <string name="version" translatable="false">1.0.0 beta</string>
+</resources>
